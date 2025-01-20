@@ -35,7 +35,7 @@
         "approachingWindowTime": 72,
         "calendarDeferralUnit": "imminentWindowTime",
         "elapsedRefreshCycle": 300,
-        "gracePeriodInstallDelay": 23,
+        "gracePeriodInstallDelay": 3,
         "gracePeriodLaunchDelay": 1,
         "gracePeriodPath": "/private/var/db/.AppleSetupDone",
         "imminentRefreshCycle": 600,
