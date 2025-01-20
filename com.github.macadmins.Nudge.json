@@ -3,6 +3,7 @@
         "acceptableApplicationBundleIDs": [
             "com.microsoft.teams",
             "com.microsoft.teams2",
+            "com.tinyspeck.slackmacgap",
             "us.zoom.xos"
         ],
         "acceptableAssertionUsage": false,
