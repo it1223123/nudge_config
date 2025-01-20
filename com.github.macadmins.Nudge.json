@@ -26,7 +26,7 @@
         }
     ],
     "userExperience": {
-        "allowGracePeriods": false,
+        "allowGracePeriods": true,
         "allowLaterDeferralButton": true,
         "allowUserQuitDeferrals": true,
         "allowedDeferrals": 1000,
