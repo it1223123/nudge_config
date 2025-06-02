@@ -10,7 +10,7 @@
         "acceptableCameraUsage": true,
         "acceptableScreenSharingUsage": true,
         "aggressiveUserExperience": true,
-        "aggressiveUserFullScreenExperience": false,
+        "aggressiveUserFullScreenExperience": true,
         "asynchronousSoftwareUpdate": true,
         "attemptToBlockApplicationLaunches": false,
         "attemptToFetchMajorUpgrade": true,
