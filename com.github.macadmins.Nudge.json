@@ -22,7 +22,7 @@
         {
             "aboutUpdateURL": "https://support.apple.com/en-gb/109035",
             "requiredInstallationDate": "2026-01-30T18:00:00Z",
-            "requiredMinimumOSVersion": "26.1",
+            "requiredMinimumOSVersion": "26.0.1",
             "targetedOSVersionsRule": "default"
         }
     ],
